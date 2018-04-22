@@ -94,7 +94,7 @@
             this.urlBox.Name = "urlBox";
             this.urlBox.Size = new System.Drawing.Size(221, 20);
             this.urlBox.TabIndex = 6;
-            this.urlBox.Text = "https://westcentralus.api.cognitive.microsoft.com/api/1.0/anomalydetection";
+            this.urlBox.Text = "https://labsportalppe.azure-api.net/anomalydetection/v1.0/anomalydetection";
             // 
             // label4
             // 
